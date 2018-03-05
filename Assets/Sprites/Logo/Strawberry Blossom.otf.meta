@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0f8de78fcd1b3a54c90823abf981c97d
+timeCreated: 1518549759
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Strawberry Blossom
+  fontNames:
+  - Strawberry Blossom
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
